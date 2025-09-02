@@ -1,0 +1,1 @@
+The Hospital Management System is a Python-based application that manages hospital operations using a CSV file system for storage. It allows staff to handle patient records, doctor information, appointments, and billing efficiently without needing a complex database. The system provides a simple yet effective way to digitalize hospital workflows.
